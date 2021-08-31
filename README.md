@@ -1,6 +1,5 @@
 # Fish-Classification
 
-# Image-Classification
 This repository contains a colab notebook with workings of a Computer Vision problem on using Convolution Neural Networks.
 
 ## Title
